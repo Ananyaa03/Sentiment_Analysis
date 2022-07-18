@@ -1,4 +1,4 @@
-# Sentiment_Analysis
+# SentimentAnalysis
 
 
 The paper is an experimental reserach on reviews given to the products on amazon by its customers. The data has been pre-processed using various pre-processing techniques and then it was experimented with combinations of POS for pre-processing using POS Tagging and also have done experiments for the classifier selection. The results came in the various of Naive Bayes as the best classifier with better accuracy and less time, also adjective and adverb was the best POS Tagging combination since it minimizes the words for the training without much affecting the accuracy of the model.
